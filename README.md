@@ -24,7 +24,7 @@ You can limit the value of the axis in range of [-1;0] or [0;1].
 And of course you can use *HyperInput* along with the standard InputManager.
 
 Just add *HyperInput* prefab into the scene, adjust needed axes and their settings and you are ready to go. 
-
+hui
 ### That's all, hope you will enjoy it.
 
 
